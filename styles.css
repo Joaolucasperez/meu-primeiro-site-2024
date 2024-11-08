@@ -26,8 +26,9 @@ header {
 }
 
 h1 {
-    font-size: 40px;
-    margin-left: 160px;
+    font-size: 30px;
+    margin-right: 100px;
+    text-align: justify;
 }
 
 p {
